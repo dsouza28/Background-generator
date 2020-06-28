@@ -1,0 +1,19 @@
+header {
+	color: red;
+}
+body {
+background-color: grey; 
+background-image: url(Coriander.jpg);
+text-align: center;
+border: 5px solid red;
+cursor: pointer;
+
+}
+
+h2 {
+	color: white;
+}
+p{
+	color: red;
+	font-style: Times new roman, Georgia
+}
